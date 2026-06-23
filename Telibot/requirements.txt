@@ -1,0 +1,10 @@
+aiohttp==3.10.10
+certifi==2024.8.30
+charset-normalizer==3.4.0
+idna==3.10
+openai==1.52.2
+pillow==11.3.0
+python-dotenv==1.0.1
+python-telegram-bot==21.6
+requests==2.32.3
+urllib3==2.2.3

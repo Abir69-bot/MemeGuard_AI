@@ -1,6 +1,11 @@
 # MemeGuard React Frontend
 
 A modern, professional React website for the Hateful Meme Detector. Built with **Vite**, **Tailwind CSS**, and **Framer Motion**.
+# MemeGuard React Frontend
+
+🔗 **[Live Demo] -- memeguard.netlify.app**
+
+A modern, professional React website for the Hateful Meme Detector..
 
 ## Features
 
